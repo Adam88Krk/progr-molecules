@@ -7,7 +7,7 @@ Please follow the file coordinates.txt when creating your file with coordinates.
 Then starting from second row you need the atom symbol and coordinates.
 
 After upload the file, please click the active "See coordinates" button. You should see the second frame with the table on the left and buttons on the right.
-Now you can provide number of atoms in appropriate field and calculate some properties - bond length, angle and torsion. 
+Now you can provide atoms in appropriate field by typing their numbers and calculate some properties - bond length, angle and torsion. 
 
 I would like to develop this work in the future. My plan is to have the application with the possibilty to visualize the molecule.
 Thank you for reading.
